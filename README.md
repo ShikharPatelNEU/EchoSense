@@ -370,9 +370,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@echosense.ai
-- 💬 Discord: [Join our community](https://discord.gg/echosense)
-- 📖 Documentation: [docs.echosense.ai](https://docs.echosense.ai)
+- 📧 Email: shikharpatel566@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/echosense/issues)
 
 ## 🚦 Project Status
